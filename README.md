@@ -1,2 +1,2 @@
-# Git GitHub
- Aprendendo Software de controle de versão
+# Olá, Pessoal!
+ Estou aprendeno sobre Git e GitHub com o professor Gustavo Guanabara, do CursoEmVideo.
