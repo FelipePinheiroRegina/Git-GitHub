@@ -71,3 +71,4 @@ else:
 🎲 
 
 ### PDF da linguagem Markdown
+[Clique aqui para ver](https://github.com/FelipePinheiroRegina/Git-GitHub/blob/main/PDF-Markdown/guia-markdown.pdf)
